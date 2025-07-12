@@ -1,0 +1,5 @@
+aiogram==3.2.0
+openai
+python-dotenv
+nest_asyncio
+pydub
